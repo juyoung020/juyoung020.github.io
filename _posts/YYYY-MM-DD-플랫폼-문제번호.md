@@ -4,8 +4,7 @@ excerpt: "한 줄 요약"
 categories:
   - BOJ
 tags:
-  - DP
-  - Silver
+  - python
 toc: true
 toc_sticky: true
 date: 2026-03-15
