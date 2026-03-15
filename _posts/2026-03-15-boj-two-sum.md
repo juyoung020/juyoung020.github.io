@@ -3,6 +3,7 @@ title: "[BOJ 1002] 두 원 - 수학"
 excerpt: "두 원의 교점 개수를 구하는 문제"
 categories:
   - BOJ
+  - Python
 tags:
   - Math
   - Geometry
