@@ -1,27 +1,51 @@
-# Minimal Mistakes remote theme starter
+# juyoung020의 알고리즘 풀이 블로그
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+> 🔗 **블로그 바로가기: [https://juyoung020.github.io](https://juyoung020.github.io)**
 
-Contains basic configuration to get you a site with:
+BOJ, 프로그래머스, LeetCode 알고리즘 문제풀이를 기록하는 블로그입니다.
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
+## 📌 포스팅 템플릿
 
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+`_posts` 폴더에 `YYYY-MM-DD-플랫폼-문제번호.md` 형식으로 파일을 생성합니다.
 
+```markdown
+---
+title: "[BOJ 1234] 문제 제목"
+excerpt: "한 줄 요약"
+categories:
+  - BOJ
+tags:
+  - DP
+  - Silver
+toc: true
+toc_sticky: true
+date: YYYY-MM-DD
 ---
 
-## Troubleshooting
+## 🔗 문제 링크
+[BOJ 1234 - 문제 제목](https://www.acmicpc.net/problem/1234)
 
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
+## 📝 문제 설명
 
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+## 💡 접근
+
+## ✅ 풀이
+
+## 💻 코드
+\`\`\`python
+# 코드 작성
+\`\`\`
+```
+
+## 🗂️ 카테고리 / 태그
+
+**categories (플랫폼)**
+- `BOJ` — 백준
+- `Programmers` — 프로그래머스
+- `LeetCode` — 리트코드
+
+**tags (알고리즘 분류)**
+- `DP`, `BFS`, `DFS`, `Greedy`, `Binary Search`
+- `Graph`, `Tree`, `Stack`, `Queue`
+- `Math`, `String`, `Simulation`
+- 난이도: `Bronze`, `Silver`, `Gold`, `Platinum`
