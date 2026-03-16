@@ -1,0 +1,29 @@
+---
+title: "[BOJ 2557] Hello World!"
+excerpt: "Hello World!를 출력한다"
+categories:
+  - BOJ
+  - Koala 22기
+tags:
+  - python
+toc: true
+toc_sticky: true
+date: 2026-03-15
+---
+
+## 🔗 문제 링크
+[BOJ 2557 - Hello World](https://www.acmicpc.net/problem/2557)
+
+## 📝 문제 설명
+Hello World를 출력해보는 문제이다.
+
+## 💡 접근
+print함수를 사용한다.
+
+## ✅ 풀이
+문자열 "" 표현
+
+## 💻 코드
+\`\`\`python
+print("Hello World")
+\`\`\`
